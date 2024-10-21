@@ -6,7 +6,8 @@ This is a React application for managing purchases. The app allows users to add,
 
 ### Prerequisites
 
-- Node.js
+- Typescript
+- Tailwind CSS
 - pnpm (or npm/yarn)
 
 ### Installation
